@@ -1,4 +1,13 @@
-## Hi there 👋
+#Associate Scientist
+
+###Technical Skills: Excel, SoftMax, JMP, Python, R
+
+##Education
+
+##Work Experience
+
+
+
 
 <!--
 **realmutoh/realmutoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
