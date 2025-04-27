@@ -14,4 +14,4 @@
 
 ## Projects
 #### Predicting Warren Buffett's Future Stock Purchases using Predictive Modeling (XGBoost)
-- Deep-dive into each step of the data workflow (
+Developed a predictive model to forecast the next stock purchase of high-profile investors (e.g., Warren Buffett) by reverse-engineering historical portfolio activity, financial metrics, market sentiment, and sector preferences. Applied Elastic Net regularization regression and XGBoost to capture patterns in value investing and investor-specific strategies, leveraging feature engineering and machine learning to uncover key drivers of investment behavior.
