@@ -13,4 +13,5 @@
 - Developed data models to predict bias in assay results.
 
 ## Projects
-### Predicting Warren Buffett's Future Stock Purchases using Predictive Modeling (XGBoost)
+#### Predicting Warren Buffett's Future Stock Purchases using Predictive Modeling (XGBoost)
+- Deep-dive into each step of the data workflow (
