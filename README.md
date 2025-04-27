@@ -1,25 +1,16 @@
-#Associate Scientist
+# Associate Scientist
 
-###Technical Skills: Excel, SoftMax, JMP, Python, R
+#### Technical Skills: Excel, SoftMax, JMP, Python, R
 
-##Education
+## Education
+- M.S Data Science | Merrimack College (_May 2025_) 
 
-##Work Experience
+- B.S. Cellular, Molecular, and Physiological Biology | Christopher Newport University (_May 2022_)
 
+## Work Experience
+**Associate Scientist (_July 2022 - Present_)**
+- Conducted programming and troubleshooting of new liquid handling systems. Lead implementation of liquid handling systems into Quality Control laboratories.
+- Developed data models to predict bias in assay results.
 
-
-
-<!--
-**realmutoh/realmutoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Predicting Warren Buffett's Future Stock Purchases using Predictive Modeling (XGBoost)
