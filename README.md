@@ -1,4 +1,6 @@
 # Associate Scientist
+##AboutMe:
+Results-driven Associate Scientist and Data Consultant offering a unique combination of advanced life sciences domain expertise and professional data architecture methodologies. Specialized in bridging pure data science structures with rigorous corporate QC GMP environments. Proven success optimizing bioanalytical systems, deploying high-impact enterprise dashboards (Power BI/Tableau), and constructing automated scripting frameworks that delivered a boost in assay throughput.
 
 #### Technical Skills: Excel, SoftMax, JMP, Python, R
 
@@ -9,8 +11,8 @@
 
 ## Work Experience
 **Associate Scientist (_July 2022 - Present_)**
-- Conducted programming and troubleshooting of new liquid handling systems. Lead implementation of liquid handling systems into Quality Control laboratories.
-- Developed data models to predict bias in assay results.
+• Laboratory Automation Engineering: Designed, programmed, maintained, and troubleshooted independent liquid handling systems for QC implementation. Authored validation frameworks and provided technical training to staff, increasing assay throughput, precision, and accuracy by 20%.
+
 
 ## Projects
 #### Predicting Warren Buffett's Future Stock Purchases using Predictive Modeling (XGBoost)
